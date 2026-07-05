@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Purvansh Sahu</h1>
-<h3>Backend · AI/ML · Scientific Machine Learning</h3>
+<h3>Backend · AI/ML · Machine Learning</h3>
 <a href="https://purvanshsahu.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://linkedin.com/in/purvansh-sahu-25b24228a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:purvansh.23bcs10169@sst.scaler.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -11,7 +11,7 @@
 ## About Me
 
 - 🎓 **4th-year Undergraduate CS Student** at **Scaler School of Technology** & **BITS Pilani** (2023 — 2027)
-- 🔬 **Scientific Machine Learning Research Intern** at **IIT Madras** (Jan 2026 — Present)
+- 🔬 **Machine Learning Research Intern** at **IIT Madras** (Jan 2026 — Present)
 - 🛠️ I build production-grade systems combining backend engineering with ML research, multi-agent orchestration, and observability
 - 📍 Based in **Bangalore, India**
 - 🌐 Portfolio: [purvanshsahu.vercel.app](https://purvanshsahu.vercel.app)
