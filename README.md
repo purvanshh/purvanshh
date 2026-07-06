@@ -25,19 +25,28 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=purvanshh&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" height="165"/>
+</div>
+
+
+---
+
 ## Featured Projects
 
-### [Ollive](https://github.com/purvanshh/ollive-assistant)
-Full-stack AI gateway with cost-aware routing between local OSS (Qwen2.5) and frontier models, sub-300ms content safety via Llama Guard 3, PII redaction, and a GPT-4-as-judge evaluation harness.
-- *Tech:* Python, FastAPI, Next.js, Qwen2.5-0.5B, GPT-4, Llama Guard 3, Langfuse, Prometheus, Docker
+### [PRGuard AI](https://github.com/purvanshh/PRGuard-AI)
+Webhook-driven multi-agent system orchestrating Style, Logic, and Security review agents in parallel to post confidence-scored inline feedback on GitHub PRs.
+- *Tech:* Python, FastAPI, Celery, Redis, ChromaDB, tree-sitter, Docker, GitHub Actions, Prometheus
 
 ### [SentinelOps AI](https://github.com/purvanshh/SentinalOps)
 Incident reasoning system using LangGraph for multi-node state orchestration, Qdrant RAG dense retrieval, auto-degrading local model fallbacks, and token-gated tool execution safety.
 - *Tech:* Python, LangGraph, FastAPI, Qdrant, Celery, Redis, Ollama, PostgreSQL, Docker, Prometheus
 
-### [PRGuard AI](https://github.com/purvanshh/PRGuard-AI)
-Webhook-driven multi-agent system orchestrating Style, Logic, and Security review agents in parallel to post confidence-scored inline feedback on GitHub PRs.
-- *Tech:* Python, FastAPI, Celery, Redis, ChromaDB, tree-sitter, Docker, GitHub Actions, Prometheus
+### [Ollive](https://github.com/purvanshh/ollive-assistant)
+Full-stack AI gateway with cost-aware routing between local OSS (Qwen2.5) and frontier models, sub-300ms content safety via Llama Guard 3, PII redaction, and a GPT-4-as-judge evaluation harness.
+- *Tech:* Python, FastAPI, Next.js, Qwen2.5-0.5B, GPT-4, Llama Guard 3, Langfuse, Prometheus, Docker
 
 ### [AuditLend (ALICe)](https://github.com/purvanshh/AuditLend-Intelligence-Core--ALICe-)
 Credit decision engine leveraging XGBoost with isotonic calibration (AUC-ROC 0.976) and SHAP explainability, featuring KS-based distribution shift detection and transactional audit trails.
@@ -53,9 +62,10 @@ Layout-aware multimodal document intelligence system extracting structured JSON 
 
 | Category | Skills & Technologies |
 | :--- | :--- |
-| **Languages** | Python, SQL, TypeScript, Bash |
-| **Backend & Infra** | FastAPI, Celery, Redis, PostgreSQL, Docker, MongoDB, Kubernetes, GitHub Actions, CI/CD |
-| **ML & AI Systems** | LangGraph, RAG pipelines, Multi-Agent Orchestration, PyTorch, Transformers, YOLOv8, XGBoost |
+| **Languages** | Python, SQL, TypeScript, JavaScript, HTML5, CSS3, Bash |
+| **Frontend** | React, Next.js, Tailwind CSS, Shadcn/ui, Material UI, Redux Toolkit, TanStack Query (React Query), React Hook Form, Zod, Framer Motion, Axios |
+| **Backend & Infrastructure** | FastAPI, Celery, Redis, PostgreSQL, MongoDB, Docker, Kubernetes, GitHub Actions, CI/CD |
+| **ML & AI Systems** | LangGraph, RAG Pipelines, Multi-Agent Orchestration, PyTorch, Transformers, YOLOv8, XGBoost |
 | **Observability & Tools** | Langfuse, Prometheus, Grafana, MLflow, SHAP, tree-sitter, Ollama, Git |
 
 ---
