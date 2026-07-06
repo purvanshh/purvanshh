@@ -28,7 +28,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=purvanshh&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=purvanshh&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </div>
 
 
