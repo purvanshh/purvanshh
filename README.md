@@ -25,15 +25,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=purvanshh&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</div>
-
-
----
-
 ## Featured Projects
 
 ### [PRGuard AI](https://github.com/purvanshh/PRGuard-AI)
