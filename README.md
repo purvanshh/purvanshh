@@ -27,6 +27,10 @@
 
 ## Featured Projects
 
+### [Lynx](https://github.com/purvanshh/Lynx)
+Real-time, multi-agent Bayesian fusion system identifying interview candidates in video conferences by pooling observations across six independent signal agents (temporal, behavioral, visual, text) via a log-odds arbitrator.
+- *Tech:* Python, FastAPI, React, MediaPipe, RapidFuzz, OpenAI GPT-4o-mini, Langfuse, Prometheus, Docker
+
 ### [PRGuard AI](https://github.com/purvanshh/PRGuard-AI)
 Webhook-driven multi-agent system orchestrating Style, Logic, and Security review agents in parallel to post confidence-scored inline feedback on GitHub PRs.
 - *Tech:* Python, FastAPI, Celery, Redis, ChromaDB, tree-sitter, Docker, GitHub Actions, Prometheus
@@ -56,8 +60,8 @@ Layout-aware multimodal document intelligence system extracting structured JSON 
 | **Languages** | Python, SQL, TypeScript, JavaScript, HTML5, CSS3, Bash |
 | **Frontend** | React, Next.js, Tailwind CSS, Shadcn/ui, Material UI, Redux Toolkit, TanStack Query (React Query), React Hook Form, Zod, Framer Motion, Axios |
 | **Backend & Infrastructure** | FastAPI, Celery, Redis, PostgreSQL, MongoDB, Docker, Kubernetes, GitHub Actions, CI/CD |
-| **ML & AI Systems** | LangGraph, RAG Pipelines, Multi-Agent Orchestration, PyTorch, Transformers, YOLOv8, XGBoost |
-| **Observability & Tools** | Langfuse, Prometheus, Grafana, MLflow, SHAP, tree-sitter, Ollama, Git |
+| **ML & AI Systems** | LangGraph, RAG Pipelines, Multi-Agent Orchestration, PyTorch, Transformers, YOLOv8, XGBoost, MediaPipe |
+| **Observability & Tools** | Langfuse, Prometheus, Grafana, MLflow, SHAP, tree-sitter, Ollama, RapidFuzz, Git |
 
 ---
 
