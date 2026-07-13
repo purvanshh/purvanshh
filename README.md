@@ -68,5 +68,5 @@ Layout-aware multimodal document intelligence system extracting structured JSON 
 ## Connect With Me
 
 - 📧 Email: [purvansh.23bcs10169@sst.scaler.com](mailto:purvansh.23bcs10169@sst.scaler.com)
-- 💼 LinkedIn: [purvansh-sahu-25b24228a](https://linkedin.com/in/purvansh-sahu-25b24228a)
+- 💼 LinkedIn: [purvansh-sahu](https://linkedin.com/in/purvansh-sahu)
 - 🌐 Portfolio: [purvanshsahu.site](https://purvanshsahu.site)
