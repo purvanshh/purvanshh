@@ -14,7 +14,7 @@
 - 🔬 **Machine Learning Research Intern** at **IIT Madras** (Jan 2026 — Present)
 - 🛠️ I build production-grade systems combining backend engineering with ML research, multi-agent orchestration, and observability
 - 📍 Based in **Bangalore, India**
-- 🌐 Portfolio: [purvanshsahu.vercel.app](https://purvanshsahu.vercel.app)
+- 🌐 Portfolio: [purvanshsahu.site](https://purvanshsahu.site)
 
 ---
 
@@ -69,4 +69,4 @@ Layout-aware multimodal document intelligence system extracting structured JSON 
 
 - 📧 Email: [purvansh.23bcs10169@sst.scaler.com](mailto:purvansh.23bcs10169@sst.scaler.com)
 - 💼 LinkedIn: [purvansh-sahu-25b24228a](https://linkedin.com/in/purvansh-sahu-25b24228a)
-- 🌐 Portfolio: [purvanshsahu.vercel.app](https://purvanshsahu.vercel.app)
+- 🌐 Portfolio: [purvanshsahu.site](https://purvanshsahu.site)
