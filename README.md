@@ -27,6 +27,10 @@
 
 ## Featured Projects
 
+### [PayShield](https://github.com/purvanshh/PayShield)
+Real-time UPI fraud detection engine with multi-layer scoring (statistical rules → GNN → LLM investigation), 14-agent orchestration, and production-ready ops. Achieves p50 < 50ms decision latency on L1+L2 scoring with async deep investigation via Celery workers.
+- *Tech:* Python, FastAPI, PyTorch Geometric, Celery, Redis, PostgreSQL, Neo4j, Ollama (llama3.1:8b), React, Docker, Kubernetes, Prometheus, SHAP
+
 ### [Lynx](https://github.com/purvanshh/Lynx)
 Real-time, multi-agent Bayesian fusion system identifying interview candidates in video conferences by pooling observations across six independent signal agents (temporal, behavioral, visual, text) via a log-odds arbitrator.
 - *Tech:* Python, FastAPI, React, MediaPipe, RapidFuzz, OpenAI GPT-4o-mini, Langfuse, Prometheus, Docker
